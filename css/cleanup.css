@@ -7,19 +7,16 @@
 }
 
 #wall #tag-2 {
-  background: url(../images/tag-2.png) no-repeat;
-  z-index: 6;
-  display: block;
+  display: none;
 }
 
 div#wall #tag-3.slick {
-  display: block;
+  display: none;
 }
 
 #wall #tag-4 {
-  background: url(../images/tag-4.png) no-repeat;
-  z-index: 4;
-  display: block;
+
+  display: none;
 }
 
 div#wall .parent #tag-5.slick {
